@@ -24,10 +24,9 @@
     "url": "https://github.com/stevekane/simplepong/issues"
   },
   "homepage": "https://github.com/stevekane/simplepong",
-  "dependencies": {
-    "browserify": "^6.3.2"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "tape": "^3.0.3"
+    "tape": "^3.0.3",
+    "browserify": "^6.3.2"
   }
 }
